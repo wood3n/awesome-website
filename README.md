@@ -12,3 +12,7 @@
 [vectorcraftr](https://vectorcraftr.com/directory/techcompany)
 
 [404s](https://www.404s.design/)
+
+### 截图美化
+
+[screenshot](https://screenshot.onionai.so/)
